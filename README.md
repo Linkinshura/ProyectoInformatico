@@ -14,3 +14,33 @@ https://github.com/santiagotrini/links-html/
 https://docs.emmet.io/cheat-sheet/
 
 -CSS
+
+
+
+
+
+Instalar emmet en termux:
+
+pkg update && pkg upgrade
+pkg install nodejs
+
+
+node -v
+npm -v
+
+
+npm install -g emmet-cli
+
+
+emmet "div>ul>li*3"
+
+te tiene que devolver:
+
+div>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+</div>
+
