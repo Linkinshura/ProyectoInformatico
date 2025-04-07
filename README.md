@@ -38,15 +38,15 @@ te tiene que devolver:
 
 <div>
 
-    <%ul>
+    <ul>
 
-        <%li></%li>
+        <li></li>
 
-        <%li></%li>
+        <li></li>
 
-        <%li><%/li>
+        <li></li>
 
-    </%ul>
+    </ul>
 
 </div>
 
