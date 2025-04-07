@@ -36,7 +36,7 @@ emmet "div>ul>li*3"
 
 te tiene que devolver:
 
-<%div>
+<div>
 
     <%ul>
 
@@ -48,7 +48,7 @@ te tiene que devolver:
 
     </%ul>
 
-</%div>
+</div>
 
 
 
