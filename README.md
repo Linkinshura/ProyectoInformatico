@@ -36,13 +36,13 @@ emmet "div>ul>li*3"
 
 te tiene que devolver:
 
-div>
-    <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-    </ul>
-</div>
+<%div>
+    <%ul>
+        <%li></%li>
+        <%li></%li>
+        <%li><%/li>
+    </%ul>
+</%div>
 
 
 
