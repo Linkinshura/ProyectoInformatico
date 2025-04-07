@@ -15,11 +15,11 @@ https://docs.emmet.io/cheat-sheet/
 
 -CSS
 
-##pagina principal:
+## Pagina principal:
 
 https://linkinshura.github.io/ProyectoInformatico/
 
-##Instalar emmet en termux:
+## Instalar emmet en termux:
 
 pkg update && pkg upgrade
 pkg install nodejs
