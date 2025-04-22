@@ -15,6 +15,10 @@ https://docs.emmet.io/cheat-sheet/
 
 -CSS
 
+-Todo:
+[RepoTrini](https://github.com/santiagotrini/ejemplo-prueba)
+
+
 ## Pagina principal:
 
 https://linkinshura.github.io/ProyectoInformatico/
