@@ -21,11 +21,6 @@ https://docs.emmet.io/cheat-sheet/
 -Todo:
 [RepoTrini](https://github.com/santiagotrini/ejemplo-prueba)
 
-
-## Pagina principal:
-
-https://linkinshura.github.io/ProyectoInformatico/
-
 # Unidad 2:
 
 
@@ -36,6 +31,10 @@ https://linkinshura.github.io/ProyectoInformatico/
 - onclick
 
 # Extras:
+
+## Pagina principal:
+
+https://linkinshura.github.io/ProyectoInformatico/
 
 ## Instalar emmet en termux:
 
