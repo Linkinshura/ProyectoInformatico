@@ -24,9 +24,13 @@ https://docs.emmet.io/cheat-sheet/
 https://linkinshura.github.io/ProyectoInformatico/
 
 
-## Formularios Github:
+# Formularios Github:
 
 [RepoForms](https://github.com/santiagotrini/unformulario)
+
+- handlesubmit
+
+- onclick
 
 ## Instalar emmet en termux:
 
