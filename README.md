@@ -1,6 +1,9 @@
 # Proyecto Informatico
 Este repo es para las practicas de Proyecto Informatico
 
+
+# Unidad 1
+
 Evaluación: 28/04
 
 -CLI(Linux):
@@ -23,14 +26,18 @@ https://docs.emmet.io/cheat-sheet/
 
 https://linkinshura.github.io/ProyectoInformatico/
 
+# Unidad 2
 
-# Formularios Github:
+
+## Formularios Github:
 
 [RepoForms](https://github.com/santiagotrini/unformulario)
 
 - handlesubmit
 
 - onclick
+
+# Extras
 
 ## Instalar emmet en termux:
 
