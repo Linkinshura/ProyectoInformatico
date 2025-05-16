@@ -29,9 +29,7 @@ https://linkinshura.github.io/ProyectoInformatico/
 # Unidad 2:
 
 
-Formularios Github:
-
-[RepoForms](https://github.com/santiagotrini/unformulario)
+[RepoFormularios](https://github.com/santiagotrini/unformulario)
 
 - handlesubmit
 
