@@ -25,6 +25,9 @@ https://docs.emmet.io/cheat-sheet/
 
 
 [RepoFormularios](https://github.com/santiagotrini/unformulario)
+[RepoFor](http://github.com/santiagotrini/for-grid)
+[RepoEstilos](https://github.com/santiagotrini/estilos-js)
+[RepoReloj](https://github.com/santiagotrini/reloj-js)
 
 - handlesubmit
 
