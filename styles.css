@@ -1,107 +1,18 @@
-/* Contenedor principal (body) que usa flexbox */
-body {
+body{
+    margin: 0%;
+}
+
+
+#div {
+    position:relative;
     display: flex;
-    flex-direction: column; /* Coloca los elementos en columna */
-    height: 100vh; /* Asegura que el contenedor ocupe toda la altura de la ventana */
-    margin: 0;
+    flex-direction: row; 
+    border-radius: 2px;
+    border: 2px solid black; 
+    margin: 30px;
+    transition: all 0.5s ease-in-out;
 }
 
-/* Estilo para el encabezado */
-.Encabezado {
-    padding: 5vh;
-    color: white;
-    background-color: black;
-    text-align: center;
-}
-
-/* Estilo para el h1 dentro del encabezado */
-.Encabezado > h1 {
-    font-size: 2rem;
-    font-family: monospace;
-}
-
-/* Estilo para la imagen en el encabezado */
-.Encabezado > img {
-    width: 10vw;
-    height: auto;
-}
-
-/* Estilo para el h2 dentro del encabezado */
-.Encabezado > h2 {
-    text-align: left;
-    font-family: monospace;
-    font-size: 1.5rem;
-}
-
-/* Contenedor principal para el contenido (aside y main) */
-.main-content {
-    display: flex;
-    flex: 1; /* Asegura que ocupe el espacio disponible */
-    justify-content: center; /* Centra el contenido horizontalmente */
-    align-items: center; /* Centra el contenido verticalmente */
-    gap: 2rem; /* Espacio entre aside y main */
-}
-
-/* Estilo para el aside */
-aside {
-    padding: 2rem;
-    border: 2px solid blue;
-    width: 25%; /* Ajusta el tamaño del aside */
-}
-
-/* Estilo para el main */
-.Principal {
-    padding: 2rem;
-    color: black;
-    border: 1px solid red;
-    background-color: white;
-    width: 60%; /* Ajusta el tamaño del main */
-}
-
-/* Estilo para el título dentro del main */
-.Principal > h1 {
-    text-align: left;
-    border: 5px dashed palevioletred;
-    margin-top: 0;
-}
-
-/* Estilo para el pie de página */
-.Creditos {
-    padding: 5vh;
-    background-color: black;
-    color: red;
-    text-align: center;
-}
-
-/* Estilo para el cuerpo */
-body {
-    display: flex;
-    flex-direction: column;
-    height: 100vh;
-    margin: 0;
-}
-
-/* Media query para pantallas pequeñas */
-@media (max-width: 768px) {
-    /* Cambia la dirección de los elementos a columna cuando la pantalla sea pequeña */
-    .main-content {
-        flex-direction: column; /* Los elementos se apilan verticalmente */
-    }
-
-    aside {
-        width: 100%; /* El aside ocupa todo el ancho */
-        margin-right: 0;
-    }
-
-    .Principal {
-        width: 100%; /* El main ocupa todo el ancho */
-    }
-
-    .Encabezado > h1 {
-        font-size: 1.5rem;
-    }
-
-    .Principal > h1 {
-        font-size: 1.25rem;
-    }
+#div p{
+    margin:8px;
 }
