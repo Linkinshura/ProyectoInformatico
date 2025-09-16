@@ -23,11 +23,30 @@ https://docs.emmet.io/cheat-sheet/
 
 # Unidad 2(Javascript):
 
+## Juegos (Javascript):
+
+[RepoTrivia](https://github.com/santiagotrini/trivia-banderitas)
+
+
+[RepoWordle](https://github.com/santiagotrini/wordle-js)
+
+
+[Repo4Linea](https://github.com/santiagotrini/cuatro-en-linea)
+
+
+
+[RepoAhorcado](https://github.com/santiagotrini/ahorcado-js)
+
+
+[RepoTateti](https://github.com/santiagotrini/tateti)
+
+
+[RepoBuscaMinas](https://github.com/santiagotrini/minesweeper-js)
+
+## Apuntes(Javascript):
+
 
 [RepoFormularios](https://github.com/santiagotrini/unformulario)
-
-
-[RepoFor](http://github.com/santiagotrini/for-grid)
 
 
 [RepoEstilos](https://github.com/santiagotrini/estilos-js)
@@ -35,47 +54,19 @@ https://docs.emmet.io/cheat-sheet/
 
 [RepoReloj](https://github.com/santiagotrini/reloj-js)
 
-- handlesubmit
 
-- onclick
-
-# Extras:
-
-## Pagina principal:
-
-https://linkinshura.github.io/ProyectoInformatico/
-
-## Instalar emmet en termux:
-
-pkg update && pkg upgrade
-pkg install nodejs
+[Repofor](https://github.com/santiagotrini/for-grid)
 
 
-node -v
-npm -v
+[RepoCalculadora](https://github.com/santiagotrini/calculadora)
 
 
-npm install -g emmet-cli
+[RepoObjetos](https://github.com/santiagotrini/objetos-js)
 
 
-emmet "div>ul>li*3"
-
-te tiene que devolver:
-
-<div>
-
-    <ul>
-
-        <li></li>
-
-        <li></li>
-
-        <li></li>
-
-    </ul>
-
-</div>
+[RepoFetch](https://github.com/santiagotrini/fetch-js)
 
 
+[RepoCarrito](https://github.com/santiagotrini/carrito-js)
 
 
